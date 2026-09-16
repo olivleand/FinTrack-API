@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FinTrackAPI
 
 API REST para gerenciamento de finanças pessoais, desenvolvida com Java e Spring Boot.
@@ -43,6 +42,4 @@ O token deve ser enviado no cabeçalho:
 
 ```text
 Authorization: Bearer SEU_TOKEN
-=======
-# FinTrack-API
->>>>>>> 841ffa1890e6c525eb608418a56315e64a2d0380
+
